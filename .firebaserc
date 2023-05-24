@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "picklemonstercinematics": {
+      "hosting": {
+        "pickle-monster-firebase-stripe": [
+          "picklemonstercinematics"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "picklemonstercinematics"
+  }
+}
